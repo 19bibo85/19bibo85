@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=bibo85&theme=dark" alt="Bibo85 LeetCode Badges"/>
+
 <!--
 **19bibo85/19bibo85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
