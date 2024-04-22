@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Alberto
+
+🌱 I’m currently learning Machine Learning alogs.
+👯 I’m looking to collaborate on any .NET C# projects.
+😄 Pronouns: his/him
+📫 How to reach me: alberto.tosibrandi@gmail.com
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=bibo85&theme=dark" alt="Bibo85 LeetCode Badges"/>
 
