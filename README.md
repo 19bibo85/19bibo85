@@ -1,4 +1,4 @@
-### Hi I'm Alberto
+### Hi, I'm Alberto
 
 🌱 I’m currently learning Machine Learning alogs.
 
