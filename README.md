@@ -1,10 +1,10 @@
 ### Hi, I'm Alberto
 
-🌱 I’m currently learning Machine Learning alogs.
+🌱 I’m currently learning Machine Learning algos.
 
 👯 I’m looking to collaborate on any .NET C# projects.
 
-😄 Pronouns: his/him
+😄 Pronouns: him/his
 
 📫 How to reach me: alberto.tosibrandi@gmail.com
 
