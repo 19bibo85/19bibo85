@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Machine Learning algos.
 
-👯 I’m looking to collaborate on any .NET C# projects.
+👯 I’m looking to collaborate on any .NET C# project.
 
 😄 Pronouns: him/his
 
